@@ -1,8 +1,35 @@
-> 正在学习中的coder.
+> 取代你的不是AI，而是比你更懂AI的人。
 
+**我是元峰，一个拥抱AI的人。**
 
-##### Talks
+**AIGC这么火热的时代，怎么才能不落伍，我最近也很焦虑，直到发现了一个大佬创立的AI社区 ： ChatGPT&AI破局俱乐部 ，这个社区是360前技术总监、曾经的连续创业者 findyi 创建的。**
 
-- Python
-- MySQL
-- Data Analyst
+findyi（易洋） 具备多个适合做这件事的属性：互联网&AI行业大佬资源、IT自媒体大号、职场的经验、运营的能力。邀请了众多互联网大佬一起运营星球。**梅花创投吴世春，《运营之光》作者黄有璨，知名大厂程序员大V鱼皮，敖丙，纯洁的微笑等。**
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia58u0jTbtNuqsemeCI7wo6Obrq0B2DjmxV636KhMCxldpax3ia5tS1YSj5tVVUTIO3umVicRmzRVjF7MqenNaCgQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+ChatGPT破局俱乐部仅仅成立不到1个月，短短18天突破**万人**大关，已经1.5万人了！
+
+**航海活动下个月就会推出。洋哥成立星球的初心就是：带着一群人实践出成果，报团去卷这个时代，成为这个时代的胜者，而非“剩”者。**
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia58u0jTbtNuqsemeCI7wo6Obrq0B2DjmQesIeLc7RRtONWqW9wAo0nNOqib0ib6vo5ICBKP3RaGsYN84wic0Ns9Mw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**系列课程普及大众，不管你是小白，还是职场人，还是程序员都有你适合的选择。**
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia58u0jTbtNuqsemeCI7wo6Obrq0B2Djmf6X4Zj3M09COI8kXbiaHqmD7jxdfgB6foVeryyQmPyib7HGbdo599MTw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**汇聚优质的商业案例，有好的创意，洋哥会帮你对接资源，进行产品孵化。**
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia58u0jTbtNuqsemeCI7wo6Obrq0B2DjmWddc9tlhicbIGNicjMMGCmwwExMuqto8lo4Z51RmALVDvgKbbick9hfQQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**点击下面2篇蓝色文章查看更多介绍：**
+
+**[① 业内大佬齐聚ChatGPT破局俱乐部星球分享会，庆祝会员破万，共享人工智能前沿思想](http://mp.weixin.qq.com/s?__biz=MzIxNTExMDY3NA==&mid=2647992447&idx=1&sn=78a35038f612236b73e139c90948a30d&chksm=8fbccd02b8cb4414fb4708bcb7f7ee589cb373b84ee1af60cf9ef4598bff9457a092d06fc522&scene=21#wechat_redirect)**
+
+[**② 用AI做漫画4个人2天的工作量，1人仅需5小时即可完成！| 7人小团队4个月赚200万！| ChatGPT接入小爱同学开口讲话**](http://mp.weixin.qq.com/s?__biz=MzIxNTExMDY3NA==&mid=2647992617&idx=1&sn=261f2b47cab2e5642447f3b890910997&chksm=8fbccc54b8cb45425a977e27b31e8f4e0115fb6ba3f6ba565126716fe5247922c8e26fc800c6&scene=21#wechat_redirect)
+
+星球已经涨价到**268**，后面会持续涨价，最终定价是**999，**我现在申请了一个**69优惠券**给到大家**，早就是优势！**
+
+**对了，还送一个newbing（底层基于GPT4.0）帐号，**还有我们合伙人强哥研发的小白做AI应用的工具：zelinAI，也送给大家**，加入星球就可以享受一年尊贵Pro版权限：**
+
+![i5Xvzb.png](https://i.328888.xyz/2023/04/23/i5Xvzb.png)
