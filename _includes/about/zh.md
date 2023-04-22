@@ -14,15 +14,15 @@ ChatGPT破局俱乐部仅仅成立不到1个月，短短18天突破**万人**大
 
 
 
-![i5X15L.png](https://i.328888.xyz/2023/04/23/i5X15L.png)
+![i5gAUZ.png](https://i.328888.xyz/2023/04/23/i5gAUZ.png)
 
 **系列课程普及大众，不管你是小白，还是职场人，还是程序员都有你适合的选择。**
 
-![image.png](https://pic7.58cdn.com.cn/nowater/webim/big/n_v20b8c883d08844b73a073e7aba8cc1fb4.png)
+![i5gD3F.png](https://i.328888.xyz/2023/04/23/i5gD3F.png)
 
 **汇聚优质的商业案例，有好的创意，洋哥会帮你对接资源，进行产品孵化。**
 
-![image.png](https://pic6.58cdn.com.cn/nowater/webim/big/n_v28d43d967e17948058f0d4099c2b21a7d.png)
+![i5gtiQ.png](https://i.328888.xyz/2023/04/23/i5gtiQ.png)
 
 **点击下面2篇蓝色文章查看更多介绍：**
 
@@ -34,7 +34,7 @@ ChatGPT破局俱乐部仅仅成立不到1个月，短短18天突破**万人**大
 
 **对了，还送一个newbing（底层基于GPT4.0）帐号，**还有我们合伙人强哥研发的小白做AI应用的工具：zelinAI，也送给大家**，加入星球就可以享受一年尊贵Pro版权限：**
 
-![image.png](https://pic6.58cdn.com.cn/nowater/webim/big/n_v211b26e009373489ea4f43114be9bc50b.png)
+![i5gWbE.png](https://i.328888.xyz/2023/04/23/i5gWbE.png)
 
 如果你想抓住 AI 的快车道，欢迎扫码私信元峰！（如果优惠券失效，请联系元峰，备注说明来意）
 
